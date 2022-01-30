@@ -7,4 +7,5 @@ hello wxr
 hello wxr
 hello wxr
 hello wxr
-hello wxr      master modify      master modify 
+hello wxr      master modify      master modify
+hello wxr      hot-fix modify          hot-fix modify 
